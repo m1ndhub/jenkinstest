@@ -5,4 +5,4 @@ first jenkins test source management
 git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
 # second
-try jenkins update every minutes
+try jenkins update every minutesfffss
